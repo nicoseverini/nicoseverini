@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Hi there <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm <a href="https://github.com/nicoseverini">nicoseverini<a></h1>
+<h1 align="center">Hi there<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm <a href="https://github.com/nicoseverini">nicoseverini<a></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
