@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">Hello There </a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">Hello There! </a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <h2 align="center">I'm <a href="https://github.com/nicoseverini">Nicolas Severini<a></h2>
   
 <h4 align="center">Software Engineer student, passionate about continuous learning and always seeking new knowledge and challenges</h4>
